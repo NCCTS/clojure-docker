@@ -1,13 +1,13 @@
 # Docker version 1.1.2, build d84a070
-FROM nccts/baseimage:0.0.8
+FROM nccts/baseimage:0.0.9
 
 # nccts/clojure
-# Version: 0.0.8
+# Version: 0.0.9
 MAINTAINER "Michael Bradley" <michael.bradley@nccts.org>
 # Salve, Regina, Mater misericordiæ, vita, dulcedo, et spes nostra, salve.
 
 # Cache buster
-ENV REFRESHED_AT [2014-09-08 Mon 21:30]
+ENV REFRESHED_AT [2014-10-01 Wed 17:15]
 
 # Set environment variables
 ENV HOME /root
