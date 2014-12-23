@@ -2,7 +2,7 @@
 FROM nccts/baseimage:0.0.10
 
 # nccts/clojure
-# Version: 0.0.9
+# Version: 0.0.10
 MAINTAINER "Michael Bradley" <michael.bradley@nccts.org>
 # Salve, Regina, Mater misericordiæ, vita, dulcedo, et spes nostra, salve.
 
