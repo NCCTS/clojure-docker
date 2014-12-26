@@ -7,7 +7,7 @@ MAINTAINER "Michael Bradley" <michael.bradley@nccts.org>
 # Salve, Regina, Mater misericordiæ, vita, dulcedo, et spes nostra, salve.
 
 # Cache buster
-ENV REFRESHED_AT [2014-12-23 Tue 05:51]
+ENV REFRESHED_AT [2014-12-25 Thu 19:36]
 
 # Set environment variables
 ENV HOME /root
