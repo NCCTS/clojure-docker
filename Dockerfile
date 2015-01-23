@@ -2,12 +2,12 @@
 FROM nccts/baseimage:0.0.11
 
 # nccts/clojure
-# Version: 0.0.10
+# Version: 0.0.11
 MAINTAINER "Michael Bradley" <michael.bradley@nccts.org>
 # Salve, Regina, Mater misericordiæ, vita, dulcedo, et spes nostra, salve.
 
 # Cache buster
-ENV REFRESHED_AT [2014-12-25 Thu 19:36]
+ENV REFRESHED_AT [2014-01-23 Thu 03:17]
 
 # Set environment variables
 ENV HOME /root
